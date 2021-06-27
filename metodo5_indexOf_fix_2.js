@@ -1,5 +1,5 @@
 /*Estudando método indexOf() páginas 141 e 142  - 2ª versão - 27/06/2021
-Este método foi criado e inspirado de mesmo nome para Stringsd. Retornar o índice do elemento de um array 
+Este método foi criado e inspirado de mesmo nome para Strings. Retornar o índice do elemento de um array 
 Admite um argumento obrigatório, que é o elemento do array cujo índice se deseja saber.*/
 
 console.log("\tMétodo indexOf() - 2ª versão\n")
